@@ -77,6 +77,10 @@ body::-webkit-scrollbar-thumb {
 }
 
 @media (max-width: 480px) {
+  .info-movie .info-container .info-image{
+    height: 100% ; 
+  }
+  
   .movie-list .container{
     grid-template-columns: 48% 48%;
   }
