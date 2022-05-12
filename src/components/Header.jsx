@@ -52,7 +52,7 @@ function Header() {
   return (
     <div className="header-section">
       <Link to="/" className="header-logo">
-        ANIME-logo
+        ANIME-DTD
       </Link>
       <form className="header-form" style={show}>
         <SearchBox value={searchQuery} onChange={handleSearch} />

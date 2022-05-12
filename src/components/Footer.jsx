@@ -5,7 +5,7 @@ import "../style/footer.css" ;
 function Footer() {
   return (
     <div className="footer">
-      <Link to="/" href="#">Anime-Logo</Link>
+      <Link to="/" href="#">Anime-DTD</Link>
       <div className="list-social">
         <a href="https://www.facebook.com/" class="fa fa-facebook" aria-hidden="true"></a>
         <a href="https://twitter.com/?lang=vi" class="fa fa-twitter" aria-hidden="true"></a>
