@@ -1,0 +1,28 @@
+.heading-section{
+    margin: 1rem 0 ; 
+    background: var(--background-gray) ; 
+    height : 4rem ; 
+    display: flex ; 
+    align-items: center;  
+}
+
+.heading-section h1{
+    margin: 0 ; 
+    padding: 0 1.2rem ;
+    font-size: 1.8rem ; 
+    background: #000 ; 
+    height: 100% ; 
+    line-height: 4rem ; 
+    color: var(--text-color) ; 
+    text-transform : capitalize ; 
+    position: relative;
+}
+
+.heading-section h1::after{
+    border: 20px solid transparent;
+    border-left-color: #000;
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 0;
+}
