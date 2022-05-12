@@ -3,8 +3,8 @@ import { useParams } from "react-router-dom";
 import AnimeContext from "../../context/AnimeContext";
 import Info from "../common/Info";
 import ListEpisode from "../common/ListEpisode";
-import "../../style/infoMovie.css";
 import { toast } from "react-toastify";
+import "../../style/infoMovie.css";
 
 function InfoMovie() {
   const [movie, setMovie] = useState({});

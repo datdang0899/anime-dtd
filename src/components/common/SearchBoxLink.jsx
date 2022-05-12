@@ -1,7 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 import AnimeContext from "../../context/AnimeContext";
-import { getMovies } from "../../services/fakeMovieService";
 import "../../style/searchBoxLink.css";
 
 function SearchBoxLink({ searchQuery }) {
