@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/datdang0899/anime-dtd/static/css/main.2c626fa7.css",
+    "main.js": "/datdang0899/anime-dtd/static/js/main.54d92a1e.js",
+    "static/js/787.aaa38906.chunk.js": "/datdang0899/anime-dtd/static/js/787.aaa38906.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/datdang0899/anime-dtd/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/datdang0899/anime-dtd/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/datdang0899/anime-dtd/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/datdang0899/anime-dtd/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/datdang0899/anime-dtd/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/datdang0899/anime-dtd/index.html",
+    "main.2c626fa7.css.map": "/datdang0899/anime-dtd/static/css/main.2c626fa7.css.map",
+    "main.54d92a1e.js.map": "/datdang0899/anime-dtd/static/js/main.54d92a1e.js.map",
+    "787.aaa38906.chunk.js.map": "/datdang0899/anime-dtd/static/js/787.aaa38906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c626fa7.css",
+    "static/js/main.54d92a1e.js"
+  ]
+}
