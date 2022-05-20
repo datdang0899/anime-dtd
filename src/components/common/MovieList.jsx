@@ -22,7 +22,7 @@ function MovieList({ heading, movies }) {
   const allMovies = getPagedData();
 
   if (movies.length === 0) {
-    return <Loading />
+    return <h2>Danh sách đang còn trống .</h2>
   }
 
   return (
