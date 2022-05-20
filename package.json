@@ -1,6 +1,5 @@
 {
-  "homepage": "https://github.com/datdang0899/anime-dtd",
-  "name": "animemely-app",
+  "name": "anime-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
